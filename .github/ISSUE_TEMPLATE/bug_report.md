@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: ''
 ---
 ## Problem
 
@@ -42,23 +42,3 @@ The solution to the bug is...
 ### File Affected
 
 1. `*.*`
-
-## Hierarchy
-
-* #1
-
-## Tags
-
-RequestFeature
-
-## Sessions
-
-* CookingWithCale/.github#9
-
-## A
-
-.
-
-## License
-
-Copyright [AStartup](https://astartup.net); all rights reserved.
